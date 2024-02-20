@@ -6,9 +6,6 @@ Please read the [post](https://www.abrahamberg.com/blog/aspnet-signalr-and-react
 We have added some extra functionalities to prove it in a proper way.
 You need dotnet 7.0 and Node.JS  20 (and npm) to run this sample
 
-## Use as Template
-
-If you want to start you repo base on this setup please click [here](https://github.com/Rohit5055/SignalR_React_App/generate))
 
 ## Running the code
 
