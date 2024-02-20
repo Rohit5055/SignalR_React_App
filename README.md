@@ -2,7 +2,7 @@
 
 This project is a code for client to server communication in C# and React
 
-Please read the [post](https://www.abrahamberg.com/blog/aspnet-signalr-and-react/) for beignner's reference.
+Please read the [post](https://www.abrahamberg.com/blog/aspnet-signalr-and-react/) for beginnner's reference.
 We have added some extra functionalities to prove it in a proper way.
 You need dotnet 7.0 and Node.JS  20 (and npm) to run this sample
 
